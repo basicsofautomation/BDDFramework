@@ -1,2 +1,0 @@
-# BDDFramework
-Testing Automation Framework
